@@ -662,6 +662,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Light shadow shape 3
       objectReference: {fileID: 0}
+    - target: {fileID: 1508360087152923093, guid: c0d7f0c588fa38541878aa80cb9e270f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2280252071205718895, guid: c0d7f0c588fa38541878aa80cb9e270f,
         type: 3}
       propertyPath: m_RootOrder
@@ -1266,6 +1271,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Light shadow shape 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1508360087152923093, guid: c0d7f0c588fa38541878aa80cb9e270f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2280252071205718895, guid: c0d7f0c588fa38541878aa80cb9e270f,
         type: 3}
       propertyPath: m_RootOrder
@@ -1464,6 +1474,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Light shadow shape 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1508360087152923093, guid: c0d7f0c588fa38541878aa80cb9e270f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2061431874021926266, guid: c0d7f0c588fa38541878aa80cb9e270f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2280252071205718895, guid: c0d7f0c588fa38541878aa80cb9e270f,
         type: 3}
@@ -3002,6 +3022,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Light shadow shape 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1508360087152923093, guid: c0d7f0c588fa38541878aa80cb9e270f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2280252071205718895, guid: c0d7f0c588fa38541878aa80cb9e270f,
         type: 3}
