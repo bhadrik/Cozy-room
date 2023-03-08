@@ -3,7 +3,22 @@ guid: c5e1707c536ccdc4abae107e743cb19a
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black metal
+    second: {fileID: 2100000, guid: bc400c3f650f12045b149f3976b90053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room
+    second: {fileID: 2100000, guid: e5f680096dcd22746a029cbad2910e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Transperent
+    second: {fileID: 2100000, guid: 8c486853488b5fd409561cf89e4bc6c8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -30,7 +45,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Window single"],"padding":[38],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
